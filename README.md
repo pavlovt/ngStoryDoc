@@ -1,4 +1,4 @@
-# Basic Amgular 5 project with Storybook and Compodoc
+# Basic Angular 5 project with Storybook and Compodoc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 It contains also [Storybook](https://storybook.js.org/basics/guide-angular/) for shared components documentation and [Compodoc](https://compodoc.github.io/website/guides/features.html) for all components, moduels and routing documentation.
